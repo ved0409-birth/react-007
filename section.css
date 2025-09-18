@@ -1,0 +1,28 @@
+.heading{
+    color: aqua;
+}
+.paragraph{
+    color: rgb(19, 19, 17);
+}
+.button{
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.button:hover{
+    background-color: darkblue;
+}
+.con{
+    text-align: center;
+    margin: 20px;
+    background-color: yellow;
+    height: 300px;
+    width: 100%;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin: auto;
+    padding: 20px;
+}
